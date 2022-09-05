@@ -4,3 +4,5 @@
 3-twofiles displays two files at once
 4-lastlines displays the last 10 lines of a file
 5-firstlines reads the first 10 lines
+
+Just like the files above, the rest of the files also contain shell commands for input and output manipulations
